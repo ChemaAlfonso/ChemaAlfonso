@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-![Alt Text](https://chemaalfonso.com/assets/img/ascii-live.gif "Live ASCII art")
+![Alt Text](https://chemaalfonso.com/assets/img/ascii-live.gif)
 
 
 <!--
