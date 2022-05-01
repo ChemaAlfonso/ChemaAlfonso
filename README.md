@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+
+![Alt Text](https://chemaalfonso.com/assets/img/ascii-live.gif "Live ASCII art")
+
+
 <!--
 **ChemaAlfonso/ChemaAlfonso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
