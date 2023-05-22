@@ -9,5 +9,5 @@
 </p>
 
 <p align="center">
-Created with <a href="https://github.com/ChemaAlfonso/Ascii-live-renderer">Ascii Live Renderer<a>
+Created with <a href="https://github.com/ChemaAlfonso/Ascii-live-renderer">Ascii Live Renderer<a> (<a href="https://chemaalfonso.github.io/Ascii-live-renderer">Preview<a>)
 </p>
