@@ -4,6 +4,7 @@
 <div align="center">
 Desarrollador y diseñador de software apasionado por la tecnología 👨🏻‍💻.
 </div>
+&nbsp;
 
 <div align="center">
   <a target="_blank" href="https://www.codewars.com/users/ChemaAlfonso">
@@ -18,6 +19,7 @@ Desarrollador y diseñador de software apasionado por la tecnología 👨🏻‍
 <div align="center">
   <img src="https://gitlab.com/ChemaAlfonso/ChemaAlfonso/-/raw/master/personal-jsspells.jpg" alt="Dibujo de Chema Alfonso revisando el libro de JSSpells" />
 </div>
+&nbsp;
 
 Desde muy joven, descubrí mi pasión por la tecnología. **A los 12 años, creé mi primera página web personal**, lo que marcó el inicio de mi viaje en este fascinante mundo. He aprendido tanto de manera **autodidacta**, sumergiéndome en cursos en línea, documentación oficial e investigación propia como con **formación reglada**, habiendo cursado **DAW** en [Igformacion](https://igformacion.com) y un **Experto universitario en análisis y diseño de software** en la [UCAM](https://www.ucam.edu).
 
@@ -27,6 +29,8 @@ Además, formo parte del equipo de **[Sooprema](https://www.sooprema.com)**, don
 
 También soy **Socio cofundador de [Paagees](https://www.paagees.com)**, un software diseñado específicamente para ofrecer sitios web optimizados para agencias inmobiliarias, siempre con un enfoque meticuloso en los detalles.
 
+&nbsp;
+
 <div align="center">
   <img src="https://chemaalfonso.com/assets/img/ascii-art-min.gif" alt="Chema Alfonso saludando en un video creado con Arte ASCII" />
 </div>
@@ -34,6 +38,7 @@ También soy **Socio cofundador de [Paagees](https://www.paagees.com)**, un soft
 <div align="center">
 	Creado con <a href="https://github.com/ChemaAlfonso/Ascii-live-renderer">Ascii Live Renderer</a> (<a href="https://chemaalfonso.github.io/Ascii-live-renderer">Vista previa</a>)
 </div>
+&nbsp;
 
 Mi objetivo es **seguir creciendo en el ámbito de la tecnología**, explorando nuevas rutas y herramientas que me permitan ofrecer un servicio aún más integral mediante el **aprendizaje continuo**.
 
