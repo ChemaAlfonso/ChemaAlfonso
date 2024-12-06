@@ -5,6 +5,7 @@
   <a target="_blank" href="https://www.codewars.com/users/ChemaAlfonso">
     <img src="https://www.codewars.com/users/ChemaAlfonso/badges/large" alt="Badges de Codewars" />
   </a>
+  
 </p>
 
 ---
@@ -12,7 +13,6 @@
 ## 🌟 Sobre mí
 
 <p align="center">
-
   <img src="https://gitlab.com/ChemaAlfonso/ChemaAlfonso/-/raw/master/personal-jsspells.jpg" alt="Dibujo de Chema Alfonso revisando el libro de JSSpells" />
   
 </p>
@@ -26,13 +26,11 @@ Además, formo parte del equipo de **[Sooprema](https://www.sooprema.com)**, don
 También soy **Socio cofundador de [Paagees](https://www.paagees.com)**, un software diseñado específicamente para ofrecer sitios web optimizados para agencias inmobiliarias, siempre con un enfoque meticuloso en los detalles.
 
 <p align="center">
-
   <img src="https://chemaalfonso.com/assets/img/ascii-art-min.gif" alt="Arte ASCII" />
 
 </p>
 
 <p align="center">
-
 Creado con <a href="https://github.com/ChemaAlfonso/Ascii-live-renderer">Ascii Live Renderer</a> (<a href="https://chemaalfonso.github.io/Ascii-live-renderer">Vista previa</a>)
 
 </p>
@@ -56,7 +54,6 @@ Mi objetivo es **seguir creciendo en el ámbito de la tecnología**, explorando 
 Si deseas hablar sobre proyectos, colaboraciones o simplemente intercambiar ideas, no dudes en contactarme a través de mis redes o por correo electrónico.
 
 <p align="center">
-
 <a href="mailto:hola@chemaalfonso.com">Enviar un correo</a>
 
 </p>
@@ -64,7 +61,6 @@ Si deseas hablar sobre proyectos, colaboraciones o simplemente intercambiar idea
 ---
 
 <p align="center">
-
 <i>“Cuanto más grande es la prueba, más glorioso es el triunfo.” - Thomas Paine</i>
 
 </p>
