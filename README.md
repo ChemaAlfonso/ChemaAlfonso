@@ -12,12 +12,16 @@
 ## 🌟 Sobre mí
 
 <p align="center">
-  <img src="personal-jsspells.jpg" alt="JSSpells" />
+  <img src="personal-jsspells.jpg" alt="Dibujo de Chema Alfonso revisando el libro de JSSpells" />
 </p>
 
-Desde muy joven, descubrí mi pasión por la tecnología. A los 12 años, creé mi primera página web personal, lo que marcó el inicio de mi viaje en este fascinante mundo. He aprendido de manera autodidacta, sumergiéndome en cursos en línea, artículos, documentación oficial e investigación propia. Además, he cursado DAW en igformacion y análisis y diseño de software en la UCAM.
+Desde muy joven, descubrí mi pasión por la tecnología. **A los 12 años, creé mi primera página web personal**, lo que marcó el inicio de mi viaje en este fascinante mundo. He aprendido tanto de manera **autodidacta**, sumergiéndome en cursos en línea, documentación oficial e investigación propia como con **formación reglada**, habiendo cursado **DAW** en [Igformacion](https://igformacion.com) y un **Experto universitario en análisis y diseño de software** en la [UCAM](https://www.ucam.edu).
 
-Hoy en día, ofrezco mis servicios como desarrollador y diseñador de software a través de **Kraken Labs Web**, donde me esfuerzo por proporcionar un servicio de alto valor y satisfacción a mis clientes.
+Hoy en día, ofrezco mis servicios como desarrollador y diseñador de software a través de **[Kraken Labs Web](https://krakenlabsweb.com)**, donde me esfuerzo en proporcionar un servicio de alto valor y satisfacción a mis clientes.
+
+Además, formo parte del equipo de **[Sooprema](https://www.sooprema.com)**, donde trabajamos cada día por ser una **referencia en el sector del real estate**, impulsando la innovación y la mejora continua en la industria del software inmobiliario.
+
+También soy **Socio cofundador de [Paagees](https://www.paagees.com)**, un software diseñado específicamente para ofrecer sitios web optimizados para agencias inmobiliarias, siempre con un enfoque meticuloso en los detalles.
 
 <p align="center">
   <img src="https://chemaalfonso.com/assets/img/ascii-art-min.gif" alt="Arte ASCII" />
@@ -27,13 +31,17 @@ Hoy en día, ofrezco mis servicios como desarrollador y diseñador de software a
   Creado con <a href="https://github.com/ChemaAlfonso/Ascii-live-renderer">Ascii Live Renderer</a> (<a href="https://chemaalfonso.github.io/Ascii-live-renderer">Vista previa</a>)
 </p>
 
+Mi objetivo es **seguir creciendo en el ámbito de la tecnología**, explorando nuevas rutas y herramientas que me permitan ofrecer un servicio aún más integral mediante el **aprendizaje continuo**.
+
 ---
 
 ## 🌐 Mis redes
 
 -   **Página profesional:** [Kraken Labs Web](https://krakenlabsweb.com)
 -   **Página personal:** [Chema Alfonso](https://chemaalfonso.com)
+-   **Perfil de Github:** [Chema Alfonso](https://github.com/ChemaAlfonso)
 -   **Perfil de Gitlab:** [Chema Alfonso](https://gitlab.com/ChemaAlfonso)
+-   **Perfil de LinkedIn:** [Chema Alfonso](https://www.linkedin.com/in/chemaalfonso)
 
 ---
 
