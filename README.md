@@ -26,9 +26,9 @@ Desde muy joven, descubrí mi pasión por la tecnología. **A los 12 años, cre�
 
 Hoy en día, ofrezco mis servicios como desarrollador y diseñador de software a través de **[Kraken Labs Web](https://krakenlabsweb.com)**, donde me esfuerzo en proporcionar un servicio de alto valor y satisfacción a mis clientes.
 
-Además, formo parte del equipo de **[Sooprema](https://www.sooprema.com)**, donde trabajamos cada día por ser una **referencia en el sector del real estate**, impulsando la innovación y la mejora continua en la industria del software inmobiliario.
+También formo parte del equipo de **[Sooprema](https://www.sooprema.com)**, donde trabajamos cada día por ser una **referencia en el sector del real estate**, impulsando la innovación y la mejora continua en la industria del software inmobiliario.
 
-También soy **Socio cofundador de [Paagees](https://www.paagees.com)**, un software diseñado específicamente para ofrecer sitios web optimizados para agencias inmobiliarias, siempre con un enfoque meticuloso en los detalles.
+Además, soy **Socio cofundador de [Paagees](https://www.paagees.com)**, un software diseñado específicamente para ofrecer sitios web optimizados para agencias inmobiliarias, siempre con un enfoque meticuloso en los detalles.
 
 <div align="center">
   <img src="https://chemaalfonso.com/assets/img/ascii-art-min.gif" alt="Chema Alfonso saludando en un video creado con Arte ASCII" />
