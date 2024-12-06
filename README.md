@@ -12,7 +12,9 @@
 ## 🌟 Sobre mí
 
 <p align="center">
-  <img src="personal-jsspells.jpg" alt="Dibujo de Chema Alfonso revisando el libro de JSSpells" />
+
+![Dibujo de Chema Alfonso revisando el libro de JSSpells](/personal-jsspells.jpg)
+
 </p>
 
 Desde muy joven, descubrí mi pasión por la tecnología. **A los 12 años, creé mi primera página web personal**, lo que marcó el inicio de mi viaje en este fascinante mundo. He aprendido tanto de manera **autodidacta**, sumergiéndome en cursos en línea, documentación oficial e investigación propia como con **formación reglada**, habiendo cursado **DAW** en [Igformacion](https://igformacion.com) y un **Experto universitario en análisis y diseño de software** en la [UCAM](https://www.ucam.edu).
