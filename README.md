@@ -1,18 +1,10 @@
-<p align="center">
-  <a target="_blank" href="https://www.codewars.com/users/ChemaAlfonso">
-    <img src="https://www.codewars.com/users/ChemaAlfonso/badges/large" alt="Badges de Codewars" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://chemaalfonso.com/assets/img/ascii-art-min.gif" alt="Arte ASCII" />
-</p>
-
 <h1 align="center">¡Hola 👋! Soy Chema Alfonso</h1>
 <p align="center">Desarrollador y diseñador de software apasionado por la tecnología 👨🏻‍💻.</p>
 
 <p align="center">
-  Creado con <a href="https://github.com/ChemaAlfonso/Ascii-live-renderer">Ascii Live Renderer</a> (<a href="https://chemaalfonso.github.io/Ascii-live-renderer">Vista previa</a>)
+  <a target="_blank" href="https://www.codewars.com/users/ChemaAlfonso">
+    <img src="https://www.codewars.com/users/ChemaAlfonso/badges/large" alt="Badges de Codewars" />
+  </a>
 </p>
 
 ---
@@ -27,12 +19,21 @@ Desde muy joven, descubrí mi pasión por la tecnología. A los 12 años, creé 
 
 Hoy en día, ofrezco mis servicios como desarrollador y diseñador de software a través de **Kraken Labs Web**, donde me esfuerzo por proporcionar un servicio de alto valor y satisfacción a mis clientes.
 
+<p align="center">
+  <img src="https://chemaalfonso.com/assets/img/ascii-art-min.gif" alt="Arte ASCII" />
+</p>
+
+<p align="center">
+  Creado con <a href="https://github.com/ChemaAlfonso/Ascii-live-renderer">Ascii Live Renderer</a> (<a href="https://chemaalfonso.github.io/Ascii-live-renderer">Vista previa</a>)
+</p>
+
 ---
 
 ## 🌐 Mis redes
 
 -   **Página profesional:** [Kraken Labs Web](https://krakenlabsweb.com)
 -   **Página personal:** [Chema Alfonso](https://chemaalfonso.com)
+-   **Perfil de Gitlab:** [Chema Alfonso](https://gitlab.com/ChemaAlfonso)
 
 ---
 
