@@ -1,7 +1,9 @@
 <div align="center">
-	<h1 align="center">¡Hola 👋! Soy Chema Alfonso</h1>
+	<h1 align="center">
+		¡Hola 👋! Soy Chema Alfonso
+		&nbsp;
+	</h1>
 </div>
-&nbsp;
 <div align="center">
 Desarrollador y diseñador de software apasionado por la tecnología 👨🏻‍💻.
 </div>
