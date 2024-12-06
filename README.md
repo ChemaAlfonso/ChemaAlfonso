@@ -1,6 +1,7 @@
 <div align="center">
 	<h1 align="center">¡Hola 👋! Soy Chema Alfonso</h1>
 </div>
+&nbsp;
 <div align="center">
 Desarrollador y diseñador de software apasionado por la tecnología 👨🏻‍💻.
 </div>
@@ -11,6 +12,7 @@ Desarrollador y diseñador de software apasionado por la tecnología 👨🏻‍
     <img src="https://www.codewars.com/users/ChemaAlfonso/badges/large" alt="Badges de Codewars" />
   </a>
 </div>
+&nbsp;
 
 ---
 
@@ -28,8 +30,6 @@ Hoy en día, ofrezco mis servicios como desarrollador y diseñador de software a
 Además, formo parte del equipo de **[Sooprema](https://www.sooprema.com)**, donde trabajamos cada día por ser una **referencia en el sector del real estate**, impulsando la innovación y la mejora continua en la industria del software inmobiliario.
 
 También soy **Socio cofundador de [Paagees](https://www.paagees.com)**, un software diseñado específicamente para ofrecer sitios web optimizados para agencias inmobiliarias, siempre con un enfoque meticuloso en los detalles.
-
-&nbsp;
 
 <div align="center">
   <img src="https://chemaalfonso.com/assets/img/ascii-art-min.gif" alt="Chema Alfonso saludando en un video creado con Arte ASCII" />
