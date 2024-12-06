@@ -23,9 +23,9 @@ Además, formo parte del equipo de **[Sooprema](https://www.sooprema.com)**, don
 
 También soy **Socio cofundador de [Paagees](https://www.paagees.com)**, un software diseñado específicamente para ofrecer sitios web optimizados para agencias inmobiliarias, siempre con un enfoque meticuloso en los detalles.
 
-<p align="center">
-  <img src="https://chemaalfonso.com/assets/img/ascii-art-min.gif" alt="Arte ASCII" />
-</p>
+<div align="center">
+  <img src="https://chemaalfonso.com/assets/img/ascii-art-min.gif" alt="Chema Alfonso saludando en un video creado con Arte ASCII" />
+</div>
 
 <p align="center">
 	Creado con <a href="https://github.com/ChemaAlfonso/Ascii-live-renderer">Ascii Live Renderer</a> (<a href="https://chemaalfonso.github.io/Ascii-live-renderer">Vista previa</a>)
